@@ -1,4 +1,4 @@
-# HealthSage - Real-time ECG Arrhythmia Detector 🚀❤️
+# HealthSage - Real-time ECG Arrhythmia Detector
 
 **HealthSage** **Streamlit web application** that classifies single ECG heartbeats into 5 arrhythmia categories using a pre-trained **1D-CNN model** trained on the **MIT-BIH Arrhythmia Database**. Supports both **live AD8232 sensor data** and **CSV batch processing** with full signal preprocessing pipeline.
 
