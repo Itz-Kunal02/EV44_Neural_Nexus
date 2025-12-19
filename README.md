@@ -191,12 +191,6 @@ enableCORS = false
 - **SciPy/wfdb** - Signal processing
 
 
-<div align="center">
-  <img src="screenshots/hero.png" width="800"/>
-  <br><br>
-  <sub>Made with ❤️ for cardiac health monitoring</sub>
-</div>
-
 ***
 
 **HealthSage** - Bringing ECG analysis to every heartbeat 📈❤️
