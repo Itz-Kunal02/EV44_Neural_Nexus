@@ -86,12 +86,6 @@ Output: [Normal, Supra, Ventricular, Fusion, Unknown] probabilities
 Visualizations: 5 diagnostic charts + clinical interpretation
 ```
 
-## 🖼 **Screenshots**
-
-| Dashboard | Signal Processing | Class Probabilities |
-|-----------|------------------|-------------------|
-| ![Dashboard](screenshots/dashboard.png  | ![Probs](screenshots/probabilities **Model Performance**
-
 | Metric | Test Set |
 |--------|----------|
 | **Accuracy** | 99.2% |
